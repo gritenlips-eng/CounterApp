@@ -1,4 +1,3 @@
-kotlin
 package com.example.counterapp
 
 import android.os.Bundle
